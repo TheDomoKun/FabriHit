@@ -9,8 +9,8 @@
     "TheDomoKun"
   ],
   "contact": {
-    "homepage": "",
-    "sources": "https://github.com/dom0kun__/fabrihit"
+    "homepage": "https://github.com/TheDomoKun/",
+    "sources": "https://github.com/TheDomoKun/FabriHit"
   },
 
   "license": "CC0-1.0",
@@ -29,8 +29,8 @@
   "depends": {
     "fabricloader": ">=0.11.3",
     "fabric": "*",
-    "minecraft": "1.17.x",
-    "java": ">=16"
+    "minecraft": "1.16.x",
+    "java": ">=8"
   },
   "suggests": {
     "another-mod": "*"
