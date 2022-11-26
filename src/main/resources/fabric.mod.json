@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "fabrihit",
   "version": "${version}",
 
   "name": "FabricHit",
@@ -27,7 +27,7 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.11.3",
+    "fabricloader": ">=0.14.10",
     "fabric": "*",
     "minecraft": "1.16.x",
     "java": ">=8"
